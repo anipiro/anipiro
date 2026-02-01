@@ -55,4 +55,3 @@ I’m open to **internships, junior roles, and collaborative projects**, especia
 ---
 
 
-Just tell me 👌
