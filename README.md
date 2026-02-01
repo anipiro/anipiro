@@ -1,16 +1,58 @@
-# 💫 About Me:
-Currently a Computer Science student (Georgian-French program) at Tbilisi State University.<br>Aspiring .NET Developer | Software Engineer | UI/UX Designer<br><br>I love building software that works beautifully and solving problems with clean, efficient code. I’m passionate about full-stack development, system design, and creating user-friendly digital experiences.<br><br>Currently leveling up skills in:<br><br>.NET / C# — APIs, MVC, EF Core, clean architecture<br><br>Full-Stack Web Development — React, HTML/CSS/JS, database design<br><br>UI/UX Design — wireframes, prototypes, usability, accessibility<br><br>I aim to combine design and development to create apps that are both functional and intuitive.<br><br>🔧 Tech Stack<br><br>C# | .NET | ASP.NET Core | EF Core | SQL | React | JavaScript | HTML | CSS | Figma | Git<br><br>🚀 Current Focus<br><br>🎯 Building portfolio-ready full-stack apps with .NET<br><br>🎨 Designing UI/UX case studies for practical experience<br><br>💡 I speak 5 languages<br><br>🧩 I treat side projects like mini startups—planning, designing, coding, deploying<br><br>☕ Probably fueled by coffee while debugging at 2 AM<br><br>📝 Always have a notebook or Figma file ready for sudden ideas<br><br>🌱 I try to improve a little every day, in code, design, and life<br><br>📚 Huge fan of self-learning and online courses
+## 👋 Who I Am
 
+I’m a **Computer Science student** in the Georgian–French program at **Tbilisi State University**, focused on becoming a **.NET Software Engineer** with a strong eye for **UI/UX design**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anipiro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anipiro&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anipiro&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build full-stack applications with clean architecture, scalable backends, and intuitive user interfaces. I enjoy turning complex problems into simple, usable solutions and treating projects like real products—not assignments.
 
+**Strengths:**
+
+* Backend development with .NET and clean architecture
+* Full-stack thinking (API → database → UI)
+* Strong design sense and user-focused mindset
+* Consistent learner with real project experience
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anipiro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I’m Currently Working On
+
+* Building **portfolio-ready full-stack applications** using **ASP.NET Core + React**
+* Designing **UI/UX case studies** (wireframes, prototypes, usability decisions)
+* Improving backend skills: **REST APIs, Entity Framework Core, SQL**
+* Learning deployment & cloud fundamentals (Azure, AWS, Vercel)
+* Writing cleaner, more maintainable code and improving system design skills
+
+---
+
+## 🛠️ Tools & Technologies I Use
+
+**Languages & Frameworks**
+
+* C#, .NET, ASP.NET Core, EF Core
+* JavaScript, React, HTML, CSS
+* SQL, MySQL
+* Python, Java (academic & practice use)
+
+**Design & Frontend**
+
+* Figma (wireframes, prototypes, UI systems)
+* Responsive and accessible UI development
+
+**DevOps & Tools**
+
+* Git, GitHub, GitLab
+* Azure, AWS, Vercel, Cloudflare
+* REST APIs, MVC, Clean Architecture
+
+---
+
+## 📫 How to Reach Me
+
+* **LinkedIn:** *https://www.linkedin.com/in/ani-pirosmanashvili/*
+* **Email:** *pirosmani2006@gmail.com*
+
+I’m open to **internships, junior roles, and collaborative projects**, especially in **.NET, full-stack development, or product-focused teams**.
+
+---
+
+
+Just tell me 👌
