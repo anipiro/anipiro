@@ -27,7 +27,7 @@ I build applications with ASP.NET Core, relational databases, and modern fronten
 ### Application Projects
 - [SakhliAI](https://github.com/anipiro/sakhli-ai) — Collaborative hackathon project. Rental platform for students in Georgia: flatmate matching, bill splitting, house rules and lease preparation. React, Supabase, n8n.
 - [Global Table Talk](https://github.com/anipiro/global-table-talk) — Team project. Live captions and translation for dinner tables where people do not share a language. TypeScript, Supabase. [Live site](https://global-table-talk.vercel.app).
-- [Finance App](https://github.com/anipiro/FinanceApp) — Expense tracker: adding and managing expenses, category totals and charts. .NET 9, EF Core, SQL Server.
+- [Finance App](https://github.com/anipiro/FinanceApp) — Expense tracker: adding and listing expenses, category totals and a pie chart. .NET 9, EF Core, SQL Server.
 - [Enquiry App](https://github.com/anipiro/EnquiryApp_Angular) — Enquiry management system. Angular, ASP.NET Core Web API, SQL Server.
 - [Pirosmani](https://github.com/anipiro/PIROSMANI) — Tribute site for the Georgian painter Niko Pirosmani: biography, searchable gallery, style guide and a quiz. HTML, CSS, JavaScript. [Live site](https://anipiro.github.io/PIROSMANI/).
 
