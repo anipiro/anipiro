@@ -16,19 +16,20 @@ I build applications with ASP.NET Core, relational databases, and modern fronten
 ## 🚀 Selected Projects
 
 ### Commercial Websites
-- [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing. [About the project](https://github.com/anipiro/protools).
-- [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship. [About the project](https://github.com/anipiro/credotravel).
+- [Credo Travel](https://github.com/anipiro/credotravel) — Booking site for a Maldives travel agency in Georgia: resort search, live prices, bookings and a staff panel. Next.js, React, Supabase. [Live site](https://www.credomaldive.com/en).
+- [Protools](https://github.com/anipiro/protools) — Online shop for a professional tools supplier in Tbilisi: catalogue, filters, cart and wishlist in two languages. Next.js. [Live site](https://www.protools.ge/ka).
 
 ### AI and Machine Learning
-- [AP800 Sentinel](https://github.com/anipiro/ap800-sentinel) ([live demo](https://ap800-sentinel.onrender.com)) — Hackathon project: fault detection and monitoring for a food-production machine, with a hand-written Isolation Forest, issue escalation and loss tracking on simulated signals. Node.js with no dependencies. The live demo sleeps when idle, so the first load can take a minute.
-- [AI Investigation Engine](https://github.com/anipiro/ai-investigation-engine) — Multi-document investigation engine: hybrid search (dense plus my own BM25), agentic RAG with verified citations, conflict detection and abstention. Python.
-- [Pet Segmentation](https://github.com/anipiro/pet-segmentation) — End-to-end computer vision project: pet segmentation and background removal on Oxford-IIIT Pet using PyTorch, ONNX INT8 and FastAPI.
+- [AP800 Sentinel](https://github.com/anipiro/ap800-sentinel) — Hackathon project. Fault monitoring for a food production line: anomaly detection, alert escalation, loss tracking and reports. Node.js with no dependencies. [Live demo](https://ap800-sentinel.onrender.com).
+- [AI Investigation Engine](https://github.com/anipiro/ai-investigation-engine) — Multi-document investigation engine: hybrid search with my own BM25, agentic RAG with verified citations, conflict detection and abstention. Python.
+- [Pet Segmentation](https://github.com/anipiro/pet-segmentation) — Computer vision pipeline: pet segmentation and background removal on Oxford-IIIT Pet. PyTorch, ONNX INT8, FastAPI.
 
 ### Application Projects
-- [Global Table Talk](https://github.com/anipiro/global-table-talk) — Mobile-first web app where people at a dinner table join a shared room and follow the conversation across languages. TypeScript and Supabase. [Live site](https://global-table-talk.vercel.app).
-- [SakhliAI](https://github.com/anipiro/sakhli-ai) — Collaborative hackathon project: student rental and flatmate matching platform using React, TypeScript, Supabase, and n8n.
-- [Finance App](https://github.com/anipiro/FinanceApp) — Expense tracking application using .NET 9, Entity Framework Core, SQL Server, and Chart.js.
-- [Enquiry App](https://github.com/anipiro/EnquiryApp_Angular) — Enquiry management system using Angular, ASP.NET Core Web API and SQL Server.
+- [SakhliAI](https://github.com/anipiro/sakhli-ai) — Collaborative hackathon project. Rental platform for students in Georgia: flatmate matching, bill splitting, house rules and lease preparation. React, Supabase, n8n.
+- [Global Table Talk](https://github.com/anipiro/global-table-talk) — Team project. Live captions and translation for dinner tables where people do not share a language. TypeScript, Supabase. [Live site](https://global-table-talk.vercel.app).
+- [Finance App](https://github.com/anipiro/FinanceApp) — Expense tracker: adding and managing expenses, category totals and charts. .NET 9, EF Core, SQL Server.
+- [Enquiry App](https://github.com/anipiro/EnquiryApp_Angular) — Enquiry management system. Angular, ASP.NET Core Web API, SQL Server.
+- [Pirosmani](https://github.com/anipiro/PIROSMANI) — Tribute site for the Georgian painter Niko Pirosmani: biography, searchable gallery, style guide and a quiz. HTML, CSS, JavaScript. [Live site](https://anipiro.github.io/PIROSMANI/).
 
 ## 🛠️ Technologies
 
