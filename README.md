@@ -19,10 +19,16 @@ I build applications with ASP.NET Core, relational databases, and modern fronten
 - [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing.
 - [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship.
 
+### AI and Machine Learning
+- [AP800 Sentinel](https://ap800-sentinel.onrender.com) — Hackathon project: fault detection and monitoring for a food-production machine, with a hand-written Isolation Forest, issue escalation and loss tracking on simulated signals. Node.js with no dependencies. The live demo sleeps when idle, so the first load can take a minute.
+- [AI Investigation Engine](https://github.com/anipiro/ai-investigation-engine) — Multi-document investigation engine: hybrid search (dense plus my own BM25), agentic RAG with verified citations, conflict detection and abstention. Python.
+- [Pet Segmentation](https://github.com/anipiro/pet-segmentation) — End-to-end computer vision project: pet segmentation and background removal on Oxford-IIIT Pet using PyTorch, ONNX INT8 and FastAPI.
+
 ### Application Projects
-- [SakhliAI](https://github.com/anipiro/SakhliAI) — Collaborative student rental and flatmate matching platform using React, TypeScript, Supabase, and n8n.
+- [Global Table Talk](https://github.com/anipiro/global-table-talk) — Mobile-first web app where people at a dinner table join a shared room and follow the conversation across languages. TypeScript and Supabase. [Live site](https://global-table-talk.vercel.app).
+- [SakhliAI](https://github.com/anipiro/sakhli-ai) — Collaborative hackathon project: student rental and flatmate matching platform using React, TypeScript, Supabase, and n8n.
 - [Finance App](https://github.com/anipiro/FinanceApp) — Expense tracking application using .NET 9, Entity Framework Core, SQL Server, and Chart.js.
-- [Enquiry App](https://github.com/anipiro/EnquiryApp) — Enquiry management backend using ASP.NET Core Web API and SQL Server.
+- [Enquiry App](https://github.com/anipiro/EnquiryApp_Angular) — Enquiry management system using Angular, ASP.NET Core Web API and SQL Server.
 
 ## 🛠️ Technologies
 
