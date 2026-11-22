@@ -16,11 +16,11 @@ I build applications with ASP.NET Core, relational databases, and modern fronten
 ## 🚀 Selected Projects
 
 ### Commercial Websites
-- [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing.
-- [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship.
+- [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing. [Showcase](https://github.com/anipiro/protools-showcase).
+- [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship. [Showcase](https://github.com/anipiro/credo-travel-showcase).
 
 ### AI and Machine Learning
-- [AP800 Sentinel](https://ap800-sentinel.onrender.com) — Hackathon project: fault detection and monitoring for a food-production machine, with a hand-written Isolation Forest, issue escalation and loss tracking on simulated signals. Node.js with no dependencies. The live demo sleeps when idle, so the first load can take a minute.
+- [AP800 Sentinel](https://github.com/anipiro/ap800-sentinel) ([live demo](https://ap800-sentinel.onrender.com)) — Hackathon project: fault detection and monitoring for a food-production machine, with a hand-written Isolation Forest, issue escalation and loss tracking on simulated signals. Node.js with no dependencies. The live demo sleeps when idle, so the first load can take a minute.
 - [AI Investigation Engine](https://github.com/anipiro/ai-investigation-engine) — Multi-document investigation engine: hybrid search (dense plus my own BM25), agentic RAG with verified citations, conflict detection and abstention. Python.
 - [Pet Segmentation](https://github.com/anipiro/pet-segmentation) — End-to-end computer vision project: pet segmentation and background removal on Oxford-IIIT Pet using PyTorch, ONNX INT8 and FastAPI.
 
