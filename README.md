@@ -16,8 +16,8 @@ I build applications with ASP.NET Core, relational databases, and modern fronten
 ## 🚀 Selected Projects
 
 ### Commercial Websites
-- [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing. [Showcase](https://github.com/anipiro/protools-showcase).
-- [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship. [Showcase](https://github.com/anipiro/credo-travel-showcase).
+- [Protools](https://www.protools.ge/ka) — Website for a professional tools supplier, featuring product categories, listings, and pricing. [About the project](https://github.com/anipiro/protools).
+- [Credo Maldive](https://www.credomaldive.com/en) — Client website developed during my AllOne internship. [About the project](https://github.com/anipiro/credotravel).
 
 ### AI and Machine Learning
 - [AP800 Sentinel](https://github.com/anipiro/ap800-sentinel) ([live demo](https://ap800-sentinel.onrender.com)) — Hackathon project: fault detection and monitoring for a food-production machine, with a hand-written Isolation Forest, issue escalation and loss tracking on simulated signals. Node.js with no dependencies. The live demo sleeps when idle, so the first load can take a minute.
